@@ -1,6 +1,6 @@
 <h1>L2 Syntax Analyses</h1>
 
-Date completed: May 10, 2023 - May 16, 2023
+<b>Date completed:</b> May 10, 2023 - May 16, 2023
 
 <h2>Description</h2>
 This project used R to analyse first language (L1) transfer in second language (L2) English syntax of native Jordanian Arabic speakers, in terms of data wrangling, visualisation, and statistical modelling. I investigated whether L1 Jordanian Arabic speakers of L2 English tend to reject indefinite relative clauses with
