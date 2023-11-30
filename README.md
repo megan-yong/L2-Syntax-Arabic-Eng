@@ -14,23 +14,16 @@ This project was based on the data set that included participants' responses to 
 <br>
 <b>Column information:</b>
 <br>
-- <i>ID</i>: the unique identifier for each participant. All participants were Jordanian Arabic speakers of L2 English.
 
-- <i>Age</i>: the participant’s age at the time of the experiment.
-
-- <i>Prof</i>: the participant’s score out of 60 on an English proficiency task.
-
-- <i>Level</i>: the participant’s English level: intermediate or advanced.
-
-- </i>Place</i>: the participant’s country of birth.
-
-- <i>A / B / C / D</i> at the start of the label indicates the experimental sentence type.
-
-- <i>GF / UF</i> at the start of the column label indicates that the item is a grammatical (G) or ungrammatical (U) filler.
-
-- <i>A number at the end of the column label</i>: This is the item number within that particular type. For example, “C05” means “the 5th item of type C (indefinite)”.
-
-- <i>The letter Z at the beginning of each column</i>: Indicates that the cells in that column are z-scores.
+  - <i>ID</i>: the unique identifier for each participant. All participants were Jordanian Arabic speakers of L2 English.
+  - <i>Age</i>: the participant’s age at the time of the experiment.
+  - <i>Prof</i>: the participant’s score out of 60 on an English proficiency task.
+  - <i>Level</i>: the participant’s English level: intermediate or advanced.
+  - </i>Place</i>: the participant’s country of birth.
+  - <i>A / B / C / D</i> at the start of the label indicates the experimental sentence type.
+  - <i>GF / UF</i> at the start of the column label indicates that the item is a grammatical (G) or ungrammatical (U) filler.
+  - <i>A number at the end of the column label</i>: This is the item number within that particular type. For example, “C05” means “the 5th item of type C (indefinite)”.
+  - <i>The letter Z at the beginning of each column</i>: Indicates that the cells in that column are z-scores.
 
 <h2>Remarks</h2>
 
