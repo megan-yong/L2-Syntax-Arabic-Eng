@@ -13,7 +13,6 @@ This project was based on the data set that included participants' responses to 
 <br>
 <br>
 <h3>Column Information:</h3>
-<br>
 
   - <i>ID</i>: the unique identifier for each participant. All participants were Jordanian Arabic speakers of L2 English.
   - <i>Age</i>: the participant’s age at the time of the experiment.
