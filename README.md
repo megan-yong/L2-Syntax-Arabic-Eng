@@ -12,7 +12,7 @@ This was completed as part of my final open exam for the Linguistic as Data Scie
 This project was based on the data set that included participants' responses to an acceptability judgement task using a 7-point rating scale from 1 (highly unacceptable) to 7 (highly acceptable). The task required them to judge 24 critical grammatical sentences of the four types: declaratives, definites, indefinites, wh-relatives. 48 “filler” sentences with different structures (12 grammatical, 36 ungrammatical) were also added to distract participants’ attention away from the critical items. 
 <br>
 <br>
-<b>Column information:</b>
+<h3>Column Information:</h3>
 <br>
 
   - <i>ID</i>: the unique identifier for each participant. All participants were Jordanian Arabic speakers of L2 English.
