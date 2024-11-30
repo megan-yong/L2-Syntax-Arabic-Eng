@@ -6,7 +6,7 @@
 This project used R to analyse first language (L1) transfer in second language (L2) English syntax of native Jordanian Arabic speakers, in terms of data wrangling, visualisation, and statistical modelling.
 <br>
 <br>
-This was completed as part of my final project for the Linguistic as Data Science module, scoring 78.5% (First-class). 
+This was completed as part of my final project for the Linguistic as Data Science module. 
 
 <h2>Project Details</h2>
 This project was based on the data set that included participants' responses to an acceptability judgement task using a 7-point rating scale from 1 (highly unacceptable) to 7 (highly acceptable). The task required them to judge 24 critical grammatical sentences of the four types: declaratives, definites, indefinites, wh-relatives. 48 “filler” sentences with different structures (12 grammatical, 36 ungrammatical) were also added to distract participants’ attention away from the critical items. 
